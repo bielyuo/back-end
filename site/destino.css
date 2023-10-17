@@ -1,0 +1,181 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+header{
+    background: #4654A3;
+    padding:20px 0;
+}
+#center{
+    display: flex;
+    flex-wrap:nowrap;
+    max-width: 1170px;
+    margin:0 auto;
+    padding:0 2%;
+}
+html, body,main{
+    height: 100%;
+    
+}
+
+#logo{
+    width: 43%;
+}
+.espaco{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 15px;
+    text-decoration: none;
+    list-style: none;
+    color: #ffffff;
+    margin: 0px 20px 0px 0px;
+}
+#info{
+    display: inline-block;
+}
+#busca{
+    box-shadow: 0  1px black;
+    cursor: text;
+    padding: 4px;
+    border: none;
+    width: 200px;
+}
+#busca:focus{
+    outline: none;
+}
+#espacomenu{
+    font-size: 20px;
+    padding:20px 0;
+    
+}
+#botao{
+    position: absolute;
+    width: 90px;
+    margin:0px 10px;
+    border: none;
+    background: black;
+    color: #ffff;
+    padding: 7px;
+    border-radius: 40px;
+    font-weight: bold;
+    cursor: pointer;
+    
+}
+
+
+
+
+
+.testa{
+    font-family: Arial, Helvetica, sans-serif;
+    margin:40px;
+
+}
+
+#conteudo{
+
+    display: inline-block;
+    margin: 40px;
+    background: #ffffff;
+    height: 520px;
+    width: 150px;
+    border: 2px solid rgb(0, 0, 0);
+  border-radius: 25px;
+  padding: 20px;
+  
+}
+
+
+#pricipal{
+
+    width: 230px;
+    height: 100%;
+    display: inline-flex;
+}
+
+
+#botao2{
+    position: absolute;
+    width: 90px;
+    margin:0px 20px;
+    border: none;
+    background: black;
+    color: #ffff;
+    padding: 7px;
+    border-radius: 40px;
+    font-weight: bold;
+    cursor: pointer;
+    
+}
+#busca3{
+    box-shadow: 0  1px black;
+    cursor:pointer ;
+    padding: 4px;
+    border: none;
+    margin: 20px;
+    width: 100px;
+
+}
+#destino{
+
+    margin: 20px;
+
+}
+#botao3{
+    position: absolute;
+    width: 90px;
+    margin:0px 40px 0px 0;;
+    border: none;
+    background: black;
+    color: #ffff;
+    padding: 7px;
+    border-radius: 40px;
+    font-weight: bold;
+    cursor: pointer;
+    
+}
+#destin{
+
+    margin: 20px;
+}
+#checkbox{
+    display: inline;
+    margin: 0px 0 0 10px;
+}
+#conteudo2{
+    display: inline-block;
+    margin: 40px 20px 0px ;
+    background: #ffffff;
+    height: 90px;
+    width: 450px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+  
+  padding: 30px;
+  
+
+}
+#conteudo2 img{
+    height: 90px;
+    width: 90px;
+    
+}
+.area{
+    display: inline-block;
+}
+.area2{
+    display: inline-block;
+    width: 90px;
+}
+
+h4{
+    margin: 0px 20px;
+    width: 190px;
+    
+}
+#conteudo3{
+    display: inline-block;
+    margin: 40px;
+    position: absolute;
+}
